@@ -1,8 +1,8 @@
 ## Oii, tudo bem? 
-## Meu nome e ✨Luana✨
+## Meu nome é ✨Luana✨
 ## Curso o 2 ano do Ensino Medio 📖🤓
 ## Estudo na Alura e estou desenvolvendo minhas abilidades na linguagem JavaScript 💬
-## Estou fazendo uma conta aqui para a producao e compartilhamento dos meus projetos 🖥️🖱️
+## Estou fazendo uma conta aqui para a produção e compartilhamento dos meus projetos 🖥️🖱️
 <!--
 **luanafiuza/luanafiuza** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
